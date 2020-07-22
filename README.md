@@ -4,11 +4,13 @@
 
 ## What's in this Repository?
 
-5533 Linear Gradients free to use for both commercial and non-commercial projects. Attribution not required, but appreciated. (Add CC licence?)  
+**5533 Linear Gradients** free to use for both commercial and non-commercial projects. This repository is distributed under CC0: Attribution not required, but appreciated.  
+
+You can download the gradients from this repository or from itch: https://wally869.itch.io/gradients-library  
 
 Gradient Images are provided as 301*100 jpg files (small mistake on my part for the sizing, might fix it later).
 
-The repository also contains a pdf file (GradientsLibrary.pdf) for you to scroll through all the gradients efficiently. What's more, the pdf file contains YUV coordinates of all
+The repository also contains a **pdf file (GradientsLibrary.pdf)** for you to scroll through all the gradients efficiently. What's more, the pdf file contains YUV coordinates of all
 gradients.
 
 You can use these coordinates as inputs to the GradientGenerator script to generate a bigger image file if needed.
