@@ -11,7 +11,7 @@ You can download the gradients from this repository or from itch: https://wally8
 Gradient Images are provided as 301*100 jpg files (small mistake on my part for the sizing, might fix it later).
 
 The repository also contains a **pdf file (GradientsLibrary.pdf)** for you to scroll through all the gradients efficiently. What's more, the pdf file contains YUV coordinates of all
-gradients.
+gradients. Check out this article for a quick overview of the generation process: https://www.noveltech.dev/gradients-library/
 
 You can use these coordinates as inputs to the GradientGenerator script to generate a bigger image file if needed.
 
